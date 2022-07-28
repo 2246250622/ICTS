@@ -12,6 +12,5 @@ git clone https://github.com/2246250622/ICTS.git
 cd /(path-to-your-strapi-project)
   
 
-# start by using yarn or npm
+# start by using yarn
 yarn develop
-npm run develop
