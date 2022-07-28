@@ -1,6 +1,8 @@
 # Installing from CLI
 Strapi CLI (Command Line Interface) installation scripts are the fastest way to get Strapi running locally. The following guide is the installation option most recommended by Strapi.
 
+![image](https://user-images.githubusercontent.com/72436714/181470233-b55e6cae-92ad-4011-b1b9-68dc51752ef0.png)
+
 # Preparing the installation
 The CLI installation guide requires at least two software prerequisites to be already installed on your computer:
 
@@ -12,4 +14,3 @@ git clone https://github.com/2246250622/ICTS.git
 
 # Running Strapi (To start the Strapi application, run the following command in the project folder)
 yarn develop
-![image](https://user-images.githubusercontent.com/72436714/181470233-b55e6cae-92ad-4011-b1b9-68dc51752ef0.png)
