@@ -9,7 +9,7 @@ npm (opens new window)(v6 only) or yarn (opens new window)to run the CLI install
 git clone https://github.com/2246250622/ICTS.git
 
 # Move to project path
-cd /<path-to-your-strapi-project>
+cd /(path-to-your-strapi-project)
   
 
 # start by using yarn or npm
